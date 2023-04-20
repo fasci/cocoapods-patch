@@ -4,9 +4,11 @@ To install or update cocoapods-patch see [README](https://github.com/DoubleSymme
 
 ## Master
 
+## 1.0.3 (20.4.23)
+
 ##### Enhancements
 
-* None.
+* Add compatibility for CocoaPods 1.12.1.
 
 ##### Bug Fixes
 
